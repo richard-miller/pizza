@@ -4,3 +4,4 @@ cheese
 olives
 pineapple
 mushrooms
+ham
